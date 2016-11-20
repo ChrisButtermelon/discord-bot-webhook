@@ -1,0 +1,17 @@
+{
+  "name": "discord-bot-webhook",
+  "version": "1.0.3",
+  "description": "A package to use Discord webhook bots",
+  "main": "discord.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "webhook"
+  ],
+  "readme": "ERROR: No Read Me",
+  "author": "Chris Uth <uthtchris@gmail.com.",
+  "license": "ISC"
+}
